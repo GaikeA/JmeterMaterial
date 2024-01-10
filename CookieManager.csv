@@ -1,0 +1,22 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+2023/12/08 11:15:52.812,184,Furniture Home page,200,OK,Thread Group 1-1,text,true,,108360,119,1,1,https://www.wakefit.co/,160,0,140
+2023/12/08 11:15:52.998,33,Furniture Home page,200,OK,Thread Group 1-1,text,true,,108368,119,1,1,https://www.wakefit.co/,22,0,0
+2023/12/08 11:15:53.031,33,Furniture Home page,200,OK,Thread Group 1-1,text,true,,108368,119,1,1,https://www.wakefit.co/,18,0,0
+2023/12/08 11:35:07.756,370,Furniture Home page,200,OK,Thread Group 1-1,text,true,,108367,119,1,1,https://www.wakefit.co/,304,0,240
+2023/12/08 11:35:08.127,87,Furniture Home page,200,OK,Thread Group 1-1,text,true,,108359,119,1,1,https://www.wakefit.co/,70,0,0
+2023/12/08 11:35:08.215,203,Furniture Home page,200,OK,Thread Group 1-1,text,true,,108359,119,1,1,https://www.wakefit.co/,64,0,0
+2023/12/08 18:44:22.955,1331,Furniture Home page,200,OK,Thread Group 1-1,text,true,,21945,119,1,1,https://www.google.com/,1277,0,660
+2023/12/08 18:44:24.291,765,Furniture Home page,200,OK,Thread Group 1-1,text,true,,21999,119,1,1,https://www.google.com/,714,0,0
+2023/12/08 18:44:25.057,859,Furniture Home page,200,OK,Thread Group 1-1,text,true,,21956,119,1,1,https://www.google.com/,818,0,0
+2023/12/08 18:45:05.458,690,Furniture Home page,200,OK,Thread Group 1-1,text,true,,80947,118,1,1,https://www.cisco.com/,586,0,491
+2023/12/08 18:45:06.149,335,Furniture Home page,200,OK,Thread Group 1-1,text,true,,80947,118,1,1,https://www.cisco.com/,165,0,0
+2023/12/08 18:45:06.485,305,Furniture Home page,200,OK,Thread Group 1-1,text,true,,80946,118,1,1,https://www.cisco.com/,265,0,0
+2023/12/08 18:45:54.728,1236,Furniture Home page,200,OK,Thread Group 1-1,text,true,,80947,118,1,1,https://www.cisco.com/,1102,0,1009
+2023/12/08 18:45:55.965,285,Furniture Home page,200,OK,Thread Group 1-1,text,true,,80818,169,1,1,https://www.cisco.com/,189,0,0
+2023/12/08 18:45:56.250,228,Furniture Home page,200,OK,Thread Group 1-1,text,true,,80818,169,1,1,https://www.cisco.com/,165,0,0
+2023/12/08 18:46:27.512,673,Furniture Home page,200,OK,Thread Group 1-1,text,true,,21977,119,1,1,https://www.google.com/,623,0,258
+2023/12/08 18:46:28.187,766,Furniture Home page,200,OK,Thread Group 1-1,text,true,,21801,394,1,1,https://www.google.com/,747,0,0
+2023/12/08 18:46:28.954,1418,Furniture Home page,200,OK,Thread Group 1-1,text,true,,21462,394,1,1,https://www.google.com/,1381,0,0
+2023/12/08 18:48:24.404,2158,Furniture Home page,200,OK,Thread Group 1-1,text,true,,6414,120,1,1,https://www.wakefit.com/,2158,0,1845
+2023/12/08 18:48:26.563,302,Furniture Home page,200,OK,Thread Group 1-1,text,true,,6388,120,1,1,https://www.wakefit.com/,302,0,0
+2023/12/08 18:48:26.866,314,Furniture Home page,200,OK,Thread Group 1-1,text,true,,6388,120,1,1,https://www.wakefit.com/,314,0,0
