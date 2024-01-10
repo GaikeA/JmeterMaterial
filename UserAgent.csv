@@ -1,0 +1,6 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+2023/12/08 11:09:28.754,132,Furniture Home page,200,OK,Thread Group 1-1,text,true,,108374,119,1,1,https://www.wakefit.co/,112,0,88
+2023/12/08 11:13:05.662,176,Furniture Home page,200,OK,Thread Group 1-1,text,true,,108360,209,1,1,https://www.wakefit.co/,150,0,132
+2023/12/08 11:13:48.795,114,Furniture Home page,200,OK,Thread Group 1-1,text,true,,108359,209,1,1,https://www.wakefit.co/,92,0,73
+2023/12/08 11:13:48.910,38,Furniture Home page,200,OK,Thread Group 1-1,text,true,,108359,209,1,1,https://www.wakefit.co/,22,0,0
+2023/12/08 11:13:48.949,40,Furniture Home page,200,OK,Thread Group 1-1,text,true,,108367,209,1,1,https://www.wakefit.co/,26,0,0

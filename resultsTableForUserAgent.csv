@@ -1,0 +1,2 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+2023/12/08 11:08:38.039,1534,Furniture Home page,200,OK,Thread Group 1-1,text,true,,108365,119,1,1,https://www.wakefit.co/,1507,0,1477

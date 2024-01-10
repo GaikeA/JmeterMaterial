@@ -1,0 +1,81 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+2024/01/03 10:48:44.940,1891,Furniture Home Page,200,OK,Thread Group 1-19,text,true,,391887,328,20,20,https://www.homecentre.in/in/en/,1413,0,1258
+2024/01/03 10:48:44.940,1414,Furniture Home Page-0,301,Moved Permanently,Thread Group 1-19,text,true,,545,161,20,20,https://www.homecentre.in/,1413,0,1258
+2024/01/03 10:48:46.356,475,Furniture Home Page-1,200,OK,Thread Group 1-19,text,true,,391342,167,20,20,https://www.homecentre.in/in/en/,37,0,0
+2024/01/03 10:48:46.841,4,Debug Sampler,200,OK,Thread Group 1-19,text,true,,376,0,20,20,null,0,0,0
+2024/01/03 10:48:44.679,2218,Furniture Home Page,200,OK,Thread Group 1-14,text,true,,391521,334,19,19,https://www.homecentre.in/in/en/,1674,0,1393
+2024/01/03 10:48:44.679,1675,Furniture Home Page-0,301,Moved Permanently,Thread Group 1-14,text,true,,541,164,19,19,https://www.homecentre.in/,1674,0,1393
+2024/01/03 10:48:46.356,541,Furniture Home Page-1,200,OK,Thread Group 1-14,text,true,,390980,170,19,19,https://www.homecentre.in/in/en/,28,0,0
+2024/01/03 10:48:46.898,0,Debug Sampler,200,OK,Thread Group 1-14,text,true,,379,0,19,19,null,0,0,0
+2024/01/03 10:48:44.571,2383,Furniture Home Page,200,OK,Thread Group 1-12,text,true,,391525,304,18,18,https://www.homecentre.in/in/en/,1782,0,1568
+2024/01/03 10:48:44.571,1783,Furniture Home Page-0,301,Moved Permanently,Thread Group 1-12,text,true,,545,149,18,18,https://www.homecentre.in/,1782,0,1568
+2024/01/03 10:48:46.356,598,Furniture Home Page-1,200,OK,Thread Group 1-12,text,true,,390980,155,18,18,https://www.homecentre.in/in/en/,32,0,0
+2024/01/03 10:48:46.955,0,Debug Sampler,200,OK,Thread Group 1-12,text,true,,364,0,18,18,null,0,0,0
+2024/01/03 10:48:44.172,2829,Furniture Home Page,200,OK,Thread Group 1-3,text,true,,391521,304,17,17,https://www.homecentre.in/in/en/,2180,0,1885
+2024/01/03 10:48:44.172,2183,Furniture Home Page-0,301,Moved Permanently,Thread Group 1-3,text,true,,541,149,17,17,https://www.homecentre.in/,2180,0,1885
+2024/01/03 10:48:46.356,645,Furniture Home Page-1,200,OK,Thread Group 1-3,text,true,,390980,155,17,17,https://www.homecentre.in/in/en/,37,0,0
+2024/01/03 10:48:47.002,0,Debug Sampler,200,OK,Thread Group 1-3,text,true,,363,0,17,17,null,0,0,0
+2024/01/03 10:48:44.983,2028,Furniture Home Page,200,OK,Thread Group 1-20,text,true,,391888,334,16,16,https://www.homecentre.in/in/en/,1370,0,1232
+2024/01/03 10:48:44.983,1371,Furniture Home Page-0,301,Moved Permanently,Thread Group 1-20,text,true,,545,164,16,16,https://www.homecentre.in/,1370,0,1232
+2024/01/03 10:48:46.357,654,Furniture Home Page-1,200,OK,Thread Group 1-20,text,true,,391343,170,16,16,https://www.homecentre.in/in/en/,47,0,0
+2024/01/03 10:48:47.012,0,Debug Sampler,200,OK,Thread Group 1-20,text,true,,379,0,16,16,null,0,0,0
+2024/01/03 10:48:44.254,2823,Furniture Home Page,200,OK,Thread Group 1-6,text,true,,391883,304,15,15,https://www.homecentre.in/in/en/,2099,0,1904
+2024/01/03 10:48:44.254,2100,Furniture Home Page-0,301,Moved Permanently,Thread Group 1-6,text,true,,541,149,15,15,https://www.homecentre.in/,2099,0,1904
+2024/01/03 10:48:46.356,721,Furniture Home Page-1,200,OK,Thread Group 1-6,text,true,,391342,155,15,15,https://www.homecentre.in/in/en/,38,0,0
+2024/01/03 10:48:47.078,0,Debug Sampler,200,OK,Thread Group 1-6,text,true,,363,0,15,15,null,0,0,0
+2024/01/03 10:48:44.172,2910,Furniture Home Page,200,OK,Thread Group 1-1,text,true,,391883,328,14,14,https://www.homecentre.in/in/en/,2180,0,2002
+2024/01/03 10:48:44.172,2181,Furniture Home Page-0,301,Moved Permanently,Thread Group 1-1,text,true,,541,161,14,14,https://www.homecentre.in/,2180,0,2002
+2024/01/03 10:48:46.356,726,Furniture Home Page-1,200,OK,Thread Group 1-1,text,true,,391342,167,14,14,https://www.homecentre.in/in/en/,48,0,0
+2024/01/03 10:48:47.083,0,Debug Sampler,200,OK,Thread Group 1-1,text,true,,375,0,14,14,null,0,0,0
+2024/01/03 10:48:44.173,2915,Furniture Home Page,200,OK,Thread Group 1-4,text,true,,391521,328,13,13,https://www.homecentre.in/in/en/,2180,0,1884
+2024/01/03 10:48:44.173,2181,Furniture Home Page-0,301,Moved Permanently,Thread Group 1-4,text,true,,541,161,13,13,https://www.homecentre.in/,2180,0,1884
+2024/01/03 10:48:46.358,730,Furniture Home Page-1,200,OK,Thread Group 1-4,text,true,,390980,167,13,13,https://www.homecentre.in/in/en/,124,0,0
+2024/01/03 10:48:47.089,0,Debug Sampler,200,OK,Thread Group 1-4,text,true,,375,0,13,13,null,0,0,0
+2024/01/03 10:48:44.309,2789,Furniture Home Page,200,OK,Thread Group 1-7,text,true,,391883,328,12,12,https://www.homecentre.in/in/en/,2044,0,1814
+2024/01/03 10:48:44.309,2045,Furniture Home Page-0,301,Moved Permanently,Thread Group 1-7,text,true,,541,161,12,12,https://www.homecentre.in/,2044,0,1814
+2024/01/03 10:48:46.356,742,Furniture Home Page-1,200,OK,Thread Group 1-7,text,true,,391342,167,12,12,https://www.homecentre.in/in/en/,74,0,0
+2024/01/03 10:48:47.099,0,Debug Sampler,200,OK,Thread Group 1-7,text,true,,375,0,12,12,null,0,0,0
+2024/01/03 10:48:44.802,2346,Furniture Home Page,200,OK,Thread Group 1-16,text,true,,391525,328,11,11,https://www.homecentre.in/in/en/,1551,0,1476
+2024/01/03 10:48:44.802,1552,Furniture Home Page-0,301,Moved Permanently,Thread Group 1-16,text,true,,545,161,11,11,https://www.homecentre.in/,1551,0,1476
+2024/01/03 10:48:46.358,790,Furniture Home Page-1,200,OK,Thread Group 1-16,text,true,,390980,167,11,11,https://www.homecentre.in/in/en/,92,0,0
+2024/01/03 10:48:47.149,0,Debug Sampler,200,OK,Thread Group 1-16,text,true,,376,0,11,11,null,0,0,0
+2024/01/03 10:48:44.625,2528,Furniture Home Page,200,OK,Thread Group 1-13,text,true,,391525,328,10,10,https://www.homecentre.in/in/en/,1728,0,1670
+2024/01/03 10:48:44.625,1729,Furniture Home Page-0,301,Moved Permanently,Thread Group 1-13,text,true,,545,161,10,10,https://www.homecentre.in/,1728,0,1670
+2024/01/03 10:48:46.357,796,Furniture Home Page-1,200,OK,Thread Group 1-13,text,true,,390980,167,10,10,https://www.homecentre.in/in/en/,115,0,0
+2024/01/03 10:48:47.154,0,Debug Sampler,200,OK,Thread Group 1-13,text,true,,376,0,10,10,null,0,0,0
+2024/01/03 10:48:44.845,2314,Furniture Home Page,200,OK,Thread Group 1-17,text,true,,391887,334,9,9,https://www.homecentre.in/in/en/,1657,0,1535
+2024/01/03 10:48:44.845,1657,Furniture Home Page-0,301,Moved Permanently,Thread Group 1-17,text,true,,545,164,9,9,https://www.homecentre.in/,1657,0,1535
+2024/01/03 10:48:46.502,657,Furniture Home Page-1,200,OK,Thread Group 1-17,text,true,,391342,170,9,9,https://www.homecentre.in/in/en/,149,0,0
+2024/01/03 10:48:47.159,1,Debug Sampler,200,OK,Thread Group 1-17,text,true,,379,0,9,9,null,0,0,0
+2024/01/03 10:48:44.468,2722,Furniture Home Page,200,OK,Thread Group 1-10,text,true,,391887,328,8,8,https://www.homecentre.in/in/en/,2020,0,1901
+2024/01/03 10:48:44.468,2021,Furniture Home Page-0,301,Moved Permanently,Thread Group 1-10,text,true,,545,161,8,8,https://www.homecentre.in/,2020,0,1901
+2024/01/03 10:48:46.489,701,Furniture Home Page-1,200,OK,Thread Group 1-10,text,true,,391342,167,8,8,https://www.homecentre.in/in/en/,106,0,0
+2024/01/03 10:48:47.190,1,Debug Sampler,200,OK,Thread Group 1-10,text,true,,375,0,8,8,null,0,0,0
+2024/01/03 10:48:44.209,2988,Furniture Home Page,200,OK,Thread Group 1-5,text,true,,391887,334,7,7,https://www.homecentre.in/in/en/,2273,0,2139
+2024/01/03 10:48:44.209,2273,Furniture Home Page-0,301,Moved Permanently,Thread Group 1-5,text,true,,545,164,7,7,https://www.homecentre.in/,2273,0,2139
+2024/01/03 10:48:46.482,715,Furniture Home Page-1,200,OK,Thread Group 1-5,text,true,,391342,170,7,7,https://www.homecentre.in/in/en/,127,0,0
+2024/01/03 10:48:47.197,0,Debug Sampler,200,OK,Thread Group 1-5,text,true,,378,0,7,7,null,0,0,0
+2024/01/03 10:48:44.172,3113,Furniture Home Page,200,OK,Thread Group 1-2,text,true,,391521,334,6,6,https://www.homecentre.in/in/en/,2180,0,1883
+2024/01/03 10:48:44.172,2181,Furniture Home Page-0,301,Moved Permanently,Thread Group 1-2,text,true,,547,164,6,6,https://www.homecentre.in/,2180,0,1883
+2024/01/03 10:48:46.357,928,Furniture Home Page-1,200,OK,Thread Group 1-2,text,true,,390974,170,6,6,https://www.homecentre.in/in/en/,616,0,0
+2024/01/03 10:48:47.286,0,Debug Sampler,200,OK,Thread Group 1-2,text,true,,378,0,6,6,null,0,0,0
+2024/01/03 10:48:44.891,2421,Furniture Home Page,200,OK,Thread Group 1-18,text,true,,391520,304,5,5,https://www.homecentre.in/in/en/,1462,0,1347
+2024/01/03 10:48:44.891,1463,Furniture Home Page-0,301,Moved Permanently,Thread Group 1-18,text,true,,545,149,5,5,https://www.homecentre.in/,1462,0,1347
+2024/01/03 10:48:46.356,956,Furniture Home Page-1,200,OK,Thread Group 1-18,text,true,,390975,155,5,5,https://www.homecentre.in/in/en/,760,0,0
+2024/01/03 10:48:44.520,2794,Furniture Home Page,200,OK,Thread Group 1-11,text,true,,391516,334,5,5,https://www.homecentre.in/in/en/,1833,0,1583
+2024/01/03 10:48:44.520,1834,Furniture Home Page-0,301,Moved Permanently,Thread Group 1-11,text,true,,541,164,5,5,https://www.homecentre.in/,1833,0,1583
+2024/01/03 10:48:46.356,958,Furniture Home Page-1,200,OK,Thread Group 1-11,text,true,,390975,170,5,5,https://www.homecentre.in/in/en/,781,0,0
+2024/01/03 10:48:47.315,1,Debug Sampler,200,OK,Thread Group 1-18,text,true,,364,0,5,5,null,0,0,0
+2024/01/03 10:48:47.316,0,Debug Sampler,200,OK,Thread Group 1-11,text,true,,379,0,5,5,null,0,0,0
+2024/01/03 10:48:44.734,2650,Furniture Home Page,200,OK,Thread Group 1-15,text,true,,391529,304,3,3,https://www.homecentre.in/in/en/,1619,0,1352
+2024/01/03 10:48:44.734,1620,Furniture Home Page-0,301,Moved Permanently,Thread Group 1-15,text,true,,547,149,3,3,https://www.homecentre.in/,1619,0,1352
+2024/01/03 10:48:46.356,1028,Furniture Home Page-1,200,OK,Thread Group 1-15,text,true,,390982,155,3,3,https://www.homecentre.in/in/en/,867,0,0
+2024/01/03 10:48:47.385,0,Debug Sampler,200,OK,Thread Group 1-15,text,true,,364,0,3,3,null,0,0,0
+2024/01/03 10:48:44.418,2995,Furniture Home Page,200,OK,Thread Group 1-9,text,true,,391519,304,2,2,https://www.homecentre.in/in/en/,1935,0,1839
+2024/01/03 10:48:44.418,1936,Furniture Home Page-0,301,Moved Permanently,Thread Group 1-9,text,true,,545,149,2,2,https://www.homecentre.in/,1935,0,1839
+2024/01/03 10:48:46.358,1055,Furniture Home Page-1,200,OK,Thread Group 1-9,text,true,,390974,155,2,2,https://www.homecentre.in/in/en/,927,0,0
+2024/01/03 10:48:47.413,1,Debug Sampler,200,OK,Thread Group 1-9,text,true,,363,0,2,2,null,0,0,0
+2024/01/03 10:48:44.363,3215,Furniture Home Page,200,OK,Thread Group 1-8,text,true,,391521,334,1,1,https://www.homecentre.in/in/en/,1990,0,1956
+2024/01/03 10:48:44.363,1991,Furniture Home Page-0,301,Moved Permanently,Thread Group 1-8,text,true,,547,164,1,1,https://www.homecentre.in/,1990,0,1956
+2024/01/03 10:48:46.356,1222,Furniture Home Page-1,200,OK,Thread Group 1-8,text,true,,390974,170,1,1,https://www.homecentre.in/in/en/,1142,0,0
+2024/01/03 10:48:47.579,0,Debug Sampler,200,OK,Thread Group 1-8,text,true,,378,0,1,1,null,0,0,0

@@ -1,0 +1,24 @@
+line 5 column 1 - Error: <slideshow> is not recognized!
+line 5 column 1 - Warning: missing <!DOCTYPE> declaration
+line 5 column 1 - Warning: discarding unexpected <slideshow>
+line 12 column 5 - Error: <slide> is not recognized!
+line 12 column 5 - Warning: discarding unexpected <slide>
+line 14 column 1 - Warning: discarding unexpected </slide>
+line 17 column 5 - Error: <slide> is not recognized!
+line 17 column 5 - Warning: discarding unexpected <slide>
+line 18 column 9 - Warning: too many title elements in <head>
+line 19 column 9 - Error: <item> is not recognized!
+line 19 column 9 - Warning: discarding unexpected <item>
+line 19 column 15 - Warning: plain text isn't allowed in <head> elements
+line 19 column 51 - Warning: discarding unexpected </item>
+line 20 column 10 - Error: item is not recognized!
+line 20 column 10 - Warning: discarding unexpected item
+line 21 column 10 - Error: <item> is not recognized!
+line 21 column 10 - Warning: discarding unexpected <item>
+line 21 column 46 - Warning: discarding unexpected </item>
+line 22 column 5 - Warning: discarding unexpected </slide>
+line 24 column 1 - Warning: discarding unexpected </slideshow>
+InputStream: Document content looks like HTML 3.2
+14 warnings, 6 errors were found!
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.

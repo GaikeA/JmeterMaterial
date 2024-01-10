@@ -1,0 +1,476 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+2023/12/07 11:31:55.693,1525,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384454,250,1,1,https://www.homecentre.in/in/en/,535,0,94
+2023/12/07 11:31:55.693,535,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,541,122,1,1,https://www.homecentre.in/,535,0,94
+2023/12/07 11:31:56.228,990,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383913,128,1,1,https://www.homecentre.in/in/en/,80,0,0
+2023/12/07 11:31:57.219,1924,Living Room,200,OK,Thread Group 1-1,text,true,,263264,149,1,1,https://www.homecentre.in/in/en/department/livingroom,1834,0,0
+2023/12/07 11:31:59.144,1472,Shop ,200,OK,Thread Group 1-1,text,true,,1362223,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,1026,0,0
+2023/12/07 11:32:00.617,155,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384458,250,1,1,https://www.homecentre.in/in/en/,41,0,0
+2023/12/07 11:32:00.617,41,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,545,122,1,1,https://www.homecentre.in/,41,0,0
+2023/12/07 11:32:00.658,114,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383913,128,1,1,https://www.homecentre.in/in/en/,38,0,0
+2023/12/07 11:32:00.773,109,Living Room,200,OK,Thread Group 1-1,text,true,,263261,149,1,1,https://www.homecentre.in/in/en/department/livingroom,52,0,0
+2023/12/07 11:32:00.883,297,Shop ,200,OK,Thread Group 1-1,text,true,,1362232,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,45,0,0
+2023/12/07 11:32:01.181,154,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384458,250,1,1,https://www.homecentre.in/in/en/,38,0,0
+2023/12/07 11:32:01.181,38,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,545,122,1,1,https://www.homecentre.in/,38,0,0
+2023/12/07 11:32:01.219,116,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383913,128,1,1,https://www.homecentre.in/in/en/,28,0,0
+2023/12/07 11:32:01.365,84,Living Room,200,OK,Thread Group 1-1,text,true,,263268,149,1,1,https://www.homecentre.in/in/en/department/livingroom,30,0,0
+2023/12/07 11:32:01.450,322,Shop ,200,OK,Thread Group 1-1,text,true,,1362238,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,50,0,0
+2023/12/07 11:32:01.772,138,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384458,250,1,1,https://www.homecentre.in/in/en/,25,0,0
+2023/12/07 11:32:01.772,25,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,545,122,1,1,https://www.homecentre.in/,25,0,0
+2023/12/07 11:32:01.797,113,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383913,128,1,1,https://www.homecentre.in/in/en/,40,0,0
+2023/12/07 11:32:01.912,97,Living Room,200,OK,Thread Group 1-1,text,true,,263268,149,1,1,https://www.homecentre.in/in/en/department/livingroom,40,0,0
+2023/12/07 11:32:02.010,333,Shop ,200,OK,Thread Group 1-1,text,true,,1362246,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,39,0,0
+2023/12/07 11:32:02.344,188,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384458,250,1,1,https://www.homecentre.in/in/en/,29,0,0
+2023/12/07 11:32:02.344,29,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,545,122,1,1,https://www.homecentre.in/,29,0,0
+2023/12/07 11:32:02.374,158,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383913,128,1,1,https://www.homecentre.in/in/en/,48,0,0
+2023/12/07 11:32:02.533,108,Living Room,200,OK,Thread Group 1-1,text,true,,263269,149,1,1,https://www.homecentre.in/in/en/department/livingroom,64,0,0
+2023/12/07 11:32:02.642,737,Shop ,200,OK,Thread Group 1-1,text,true,,1362232,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,77,0,0
+2023/12/07 11:32:03.380,338,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384458,250,1,1,https://www.homecentre.in/in/en/,224,0,0
+2023/12/07 11:32:03.380,224,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,545,122,1,1,https://www.homecentre.in/,224,0,0
+2023/12/07 11:32:03.605,113,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383913,128,1,1,https://www.homecentre.in/in/en/,36,0,0
+2023/12/07 11:32:03.719,89,Living Room,200,OK,Thread Group 1-1,text,true,,263268,149,1,1,https://www.homecentre.in/in/en/department/livingroom,36,0,0
+2023/12/07 11:32:03.809,381,Shop ,200,OK,Thread Group 1-1,text,true,,1362233,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,37,0,0
+2023/12/07 11:32:04.192,156,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384458,250,1,1,https://www.homecentre.in/in/en/,28,0,0
+2023/12/07 11:32:04.192,29,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,545,122,1,1,https://www.homecentre.in/,28,0,0
+2023/12/07 11:32:04.221,127,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383913,128,1,1,https://www.homecentre.in/in/en/,41,0,0
+2023/12/07 11:32:04.350,111,Living Room,200,OK,Thread Group 1-1,text,true,,263268,149,1,1,https://www.homecentre.in/in/en/department/livingroom,42,0,0
+2023/12/07 11:32:04.462,376,Shop ,200,OK,Thread Group 1-1,text,true,,1362232,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,55,0,0
+2023/12/07 11:32:04.839,165,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384458,250,1,1,https://www.homecentre.in/in/en/,24,0,0
+2023/12/07 11:32:04.839,24,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,545,122,1,1,https://www.homecentre.in/,24,0,0
+2023/12/07 11:32:04.864,140,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383913,128,1,1,https://www.homecentre.in/in/en/,60,0,0
+2023/12/07 11:32:05.005,82,Living Room,200,OK,Thread Group 1-1,text,true,,263268,149,1,1,https://www.homecentre.in/in/en/department/livingroom,30,0,0
+2023/12/07 11:32:05.088,309,Shop ,200,OK,Thread Group 1-1,text,true,,1362246,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,41,0,0
+2023/12/07 11:32:05.398,661,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384458,250,1,1,https://www.homecentre.in/in/en/,316,0,0
+2023/12/07 11:32:05.398,316,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,545,122,1,1,https://www.homecentre.in/,316,0,0
+2023/12/07 11:32:05.714,345,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383913,128,1,1,https://www.homecentre.in/in/en/,147,0,0
+2023/12/07 11:32:06.061,80,Living Room,200,OK,Thread Group 1-1,text,true,,263262,149,1,1,https://www.homecentre.in/in/en/department/livingroom,33,0,0
+2023/12/07 11:32:06.142,317,Shop ,200,OK,Thread Group 1-1,text,true,,1362225,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,33,0,0
+2023/12/07 11:32:06.459,131,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384459,250,1,1,https://www.homecentre.in/in/en/,27,0,0
+2023/12/07 11:32:06.459,29,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,27,0,0
+2023/12/07 11:32:06.488,102,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383913,128,1,1,https://www.homecentre.in/in/en/,31,0,0
+2023/12/07 11:32:06.592,99,Living Room,200,OK,Thread Group 1-1,text,true,,263268,149,1,1,https://www.homecentre.in/in/en/department/livingroom,33,0,0
+2023/12/07 11:32:06.692,293,Shop ,200,OK,Thread Group 1-1,text,true,,1362242,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,35,0,0
+2023/12/07 11:32:06.986,145,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384460,250,1,1,https://www.homecentre.in/in/en/,28,0,0
+2023/12/07 11:32:06.986,28,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,28,0,0
+2023/12/07 11:32:07.014,117,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383914,128,1,1,https://www.homecentre.in/in/en/,40,0,0
+2023/12/07 11:32:07.132,84,Living Room,200,OK,Thread Group 1-1,text,true,,263262,149,1,1,https://www.homecentre.in/in/en/department/livingroom,36,0,0
+2023/12/07 11:32:07.217,300,Shop ,200,OK,Thread Group 1-1,text,true,,1362232,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,38,0,0
+2023/12/07 11:32:07.518,138,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384459,250,1,1,https://www.homecentre.in/in/en/,23,0,0
+2023/12/07 11:32:07.518,23,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,23,0,0
+2023/12/07 11:32:07.541,115,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383913,128,1,1,https://www.homecentre.in/in/en/,35,0,0
+2023/12/07 11:32:07.658,82,Living Room,200,OK,Thread Group 1-1,text,true,,263268,149,1,1,https://www.homecentre.in/in/en/department/livingroom,36,0,0
+2023/12/07 11:32:07.741,390,Shop ,200,OK,Thread Group 1-1,text,true,,1362249,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,43,0,0
+2023/12/07 11:32:08.132,139,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384460,250,1,1,https://www.homecentre.in/in/en/,30,0,0
+2023/12/07 11:32:08.132,30,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,30,0,0
+2023/12/07 11:32:08.163,108,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383914,128,1,1,https://www.homecentre.in/in/en/,34,0,0
+2023/12/07 11:32:08.272,97,Living Room,200,OK,Thread Group 1-1,text,true,,263268,149,1,1,https://www.homecentre.in/in/en/department/livingroom,49,0,0
+2023/12/07 11:32:08.369,270,Shop ,200,OK,Thread Group 1-1,text,true,,1362246,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,30,0,0
+2023/12/07 11:32:08.640,133,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384460,250,1,1,https://www.homecentre.in/in/en/,25,0,0
+2023/12/07 11:32:08.640,25,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,25,0,0
+2023/12/07 11:32:08.665,108,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383914,128,1,1,https://www.homecentre.in/in/en/,35,0,0
+2023/12/07 11:32:08.775,81,Living Room,200,OK,Thread Group 1-1,text,true,,263262,149,1,1,https://www.homecentre.in/in/en/department/livingroom,31,0,0
+2023/12/07 11:32:08.856,315,Shop ,200,OK,Thread Group 1-1,text,true,,1362236,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,32,0,0
+2023/12/07 11:32:09.172,126,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384460,250,1,1,https://www.homecentre.in/in/en/,28,0,0
+2023/12/07 11:32:09.172,29,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,28,0,0
+2023/12/07 11:32:09.201,97,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383914,128,1,1,https://www.homecentre.in/in/en/,33,0,0
+2023/12/07 11:32:09.299,70,Living Room,200,OK,Thread Group 1-1,text,true,,263263,149,1,1,https://www.homecentre.in/in/en/department/livingroom,32,0,0
+2023/12/07 11:32:09.370,280,Shop ,200,OK,Thread Group 1-1,text,true,,1362236,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,29,0,0
+2023/12/07 11:32:09.651,136,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384460,250,1,1,https://www.homecentre.in/in/en/,21,0,0
+2023/12/07 11:32:09.651,21,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,21,0,0
+2023/12/07 11:32:09.672,115,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383914,128,1,1,https://www.homecentre.in/in/en/,37,0,0
+2023/12/07 11:32:09.788,85,Living Room,200,OK,Thread Group 1-1,text,true,,263269,149,1,1,https://www.homecentre.in/in/en/department/livingroom,28,0,0
+2023/12/07 11:32:09.874,312,Shop ,200,OK,Thread Group 1-1,text,true,,1362231,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,43,0,0
+2023/12/07 11:32:10.187,136,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384459,250,1,1,https://www.homecentre.in/in/en/,26,0,0
+2023/12/07 11:32:10.187,26,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,26,0,0
+2023/12/07 11:32:10.213,110,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383913,128,1,1,https://www.homecentre.in/in/en/,41,0,0
+2023/12/07 11:32:10.324,79,Living Room,200,OK,Thread Group 1-1,text,true,,263269,149,1,1,https://www.homecentre.in/in/en/department/livingroom,37,0,0
+2023/12/07 11:32:10.404,311,Shop ,200,OK,Thread Group 1-1,text,true,,1362249,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,37,0,0
+2023/12/07 11:32:10.716,142,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384459,250,1,1,https://www.homecentre.in/in/en/,32,0,0
+2023/12/07 11:32:10.716,32,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,32,0,0
+2023/12/07 11:32:10.749,109,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383913,128,1,1,https://www.homecentre.in/in/en/,35,0,0
+2023/12/07 11:32:10.859,103,Living Room,200,OK,Thread Group 1-1,text,true,,263269,149,1,1,https://www.homecentre.in/in/en/department/livingroom,55,0,0
+2023/12/07 11:32:10.963,309,Shop ,200,OK,Thread Group 1-1,text,true,,1362227,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,29,0,0
+2023/12/07 11:32:11.273,125,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384459,250,1,1,https://www.homecentre.in/in/en/,31,0,0
+2023/12/07 11:32:11.273,31,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,31,0,0
+2023/12/07 11:32:11.304,94,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383913,128,1,1,https://www.homecentre.in/in/en/,30,0,0
+2023/12/07 11:32:11.399,102,Living Room,200,OK,Thread Group 1-1,text,true,,263270,149,1,1,https://www.homecentre.in/in/en/department/livingroom,40,0,0
+2023/12/07 11:32:11.502,297,Shop ,200,OK,Thread Group 1-1,text,true,,1362233,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,39,0,0
+2023/12/07 11:32:11.799,215,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384459,250,1,1,https://www.homecentre.in/in/en/,31,0,0
+2023/12/07 11:32:11.799,31,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,31,0,0
+2023/12/07 11:32:11.830,184,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383913,128,1,1,https://www.homecentre.in/in/en/,37,0,0
+2023/12/07 11:32:12.015,88,Living Room,200,OK,Thread Group 1-1,text,true,,263263,149,1,1,https://www.homecentre.in/in/en/department/livingroom,39,0,0
+2023/12/07 11:32:12.104,440,Shop ,200,OK,Thread Group 1-1,text,true,,1362235,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,41,0,0
+2023/12/07 11:32:12.544,128,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384459,250,1,1,https://www.homecentre.in/in/en/,25,0,0
+2023/12/07 11:32:12.544,25,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,25,0,0
+2023/12/07 11:32:12.569,103,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383913,128,1,1,https://www.homecentre.in/in/en/,32,0,0
+2023/12/07 11:32:12.673,86,Living Room,200,OK,Thread Group 1-1,text,true,,263269,149,1,1,https://www.homecentre.in/in/en/department/livingroom,39,0,0
+2023/12/07 11:32:12.760,374,Shop ,200,OK,Thread Group 1-1,text,true,,1362234,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,29,0,0
+2023/12/07 11:32:13.135,142,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384460,250,1,1,https://www.homecentre.in/in/en/,39,0,0
+2023/12/07 11:32:13.135,39,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,39,0,0
+2023/12/07 11:32:13.175,102,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383914,128,1,1,https://www.homecentre.in/in/en/,34,0,0
+2023/12/07 11:32:13.278,80,Living Room,200,OK,Thread Group 1-1,text,true,,263262,149,1,1,https://www.homecentre.in/in/en/department/livingroom,35,0,0
+2023/12/07 11:32:13.359,268,Shop ,200,OK,Thread Group 1-1,text,true,,1362232,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,32,0,0
+2023/12/07 11:32:13.628,149,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384460,250,1,1,https://www.homecentre.in/in/en/,41,0,0
+2023/12/07 11:32:13.628,41,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,41,0,0
+2023/12/07 11:32:13.669,108,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383914,128,1,1,https://www.homecentre.in/in/en/,30,0,0
+2023/12/07 11:32:13.778,82,Living Room,200,OK,Thread Group 1-1,text,true,,263269,149,1,1,https://www.homecentre.in/in/en/department/livingroom,36,0,0
+2023/12/07 11:32:13.860,258,Shop ,200,OK,Thread Group 1-1,text,true,,1362242,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,26,0,0
+2023/12/07 11:32:14.119,190,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384459,250,1,1,https://www.homecentre.in/in/en/,23,0,0
+2023/12/07 11:32:14.119,23,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,23,0,0
+2023/12/07 11:32:14.143,166,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383913,128,1,1,https://www.homecentre.in/in/en/,61,0,0
+2023/12/07 11:32:14.310,75,Living Room,200,OK,Thread Group 1-1,text,true,,263269,149,1,1,https://www.homecentre.in/in/en/department/livingroom,36,0,0
+2023/12/07 11:32:14.385,297,Shop ,200,OK,Thread Group 1-1,text,true,,1362239,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,47,0,0
+2023/12/07 11:32:14.683,128,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384460,250,1,1,https://www.homecentre.in/in/en/,30,0,0
+2023/12/07 11:32:14.683,30,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,30,0,0
+2023/12/07 11:32:14.714,97,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383914,128,1,1,https://www.homecentre.in/in/en/,30,0,0
+2023/12/07 11:32:14.812,84,Living Room,200,OK,Thread Group 1-1,text,true,,263269,149,1,1,https://www.homecentre.in/in/en/department/livingroom,30,0,0
+2023/12/07 11:32:14.897,325,Shop ,200,OK,Thread Group 1-1,text,true,,1362243,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,38,0,0
+2023/12/07 11:32:15.237,113,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384459,250,1,1,https://www.homecentre.in/in/en/,26,0,0
+2023/12/07 11:32:15.237,26,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,26,0,0
+2023/12/07 11:32:15.263,87,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383913,128,1,1,https://www.homecentre.in/in/en/,34,0,0
+2023/12/07 11:32:15.351,67,Living Room,200,OK,Thread Group 1-1,text,true,,263269,149,1,1,https://www.homecentre.in/in/en/department/livingroom,28,0,0
+2023/12/07 11:32:15.418,294,Shop ,200,OK,Thread Group 1-1,text,true,,1362240,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,32,0,0
+2023/12/07 11:32:15.713,135,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384459,250,1,1,https://www.homecentre.in/in/en/,28,0,0
+2023/12/07 11:32:15.713,28,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,28,0,0
+2023/12/07 11:32:15.741,107,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383913,128,1,1,https://www.homecentre.in/in/en/,41,0,0
+2023/12/07 11:32:15.849,85,Living Room,200,OK,Thread Group 1-1,text,true,,263269,149,1,1,https://www.homecentre.in/in/en/department/livingroom,34,0,0
+2023/12/07 11:32:15.935,263,Shop ,200,OK,Thread Group 1-1,text,true,,1362235,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,39,0,0
+2023/12/07 11:32:16.198,151,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384460,250,1,1,https://www.homecentre.in/in/en/,61,0,0
+2023/12/07 11:32:16.198,61,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,61,0,0
+2023/12/07 11:32:16.259,90,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383914,128,1,1,https://www.homecentre.in/in/en/,32,0,0
+2023/12/07 11:32:16.350,72,Living Room,200,OK,Thread Group 1-1,text,true,,263269,149,1,1,https://www.homecentre.in/in/en/department/livingroom,33,0,0
+2023/12/07 11:32:16.422,315,Shop ,200,OK,Thread Group 1-1,text,true,,1362231,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,33,0,0
+2023/12/07 11:32:16.737,183,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384467,250,1,1,https://www.homecentre.in/in/en/,65,0,0
+2023/12/07 11:32:16.737,66,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,65,0,0
+2023/12/07 11:32:16.803,117,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383921,128,1,1,https://www.homecentre.in/in/en/,61,0,0
+2023/12/07 11:32:16.921,73,Living Room,200,OK,Thread Group 1-1,text,true,,263269,149,1,1,https://www.homecentre.in/in/en/department/livingroom,32,0,0
+2023/12/07 11:32:16.995,257,Shop ,200,OK,Thread Group 1-1,text,true,,1362232,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,35,0,0
+2023/12/07 11:32:17.253,128,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384459,250,1,1,https://www.homecentre.in/in/en/,35,0,0
+2023/12/07 11:32:17.253,35,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,35,0,0
+2023/12/07 11:32:17.289,92,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383913,128,1,1,https://www.homecentre.in/in/en/,39,0,0
+2023/12/07 11:32:17.382,93,Living Room,200,OK,Thread Group 1-1,text,true,,263269,149,1,1,https://www.homecentre.in/in/en/department/livingroom,49,0,0
+2023/12/07 11:32:17.476,266,Shop ,200,OK,Thread Group 1-1,text,true,,1362227,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,43,0,0
+2023/12/07 11:32:17.742,117,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384459,250,1,1,https://www.homecentre.in/in/en/,24,0,0
+2023/12/07 11:32:17.742,24,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,24,0,0
+2023/12/07 11:32:17.766,93,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383913,128,1,1,https://www.homecentre.in/in/en/,41,0,0
+2023/12/07 11:32:17.860,92,Living Room,200,OK,Thread Group 1-1,text,true,,263269,149,1,1,https://www.homecentre.in/in/en/department/livingroom,38,0,0
+2023/12/07 11:32:17.952,412,Shop ,200,OK,Thread Group 1-1,text,true,,1362227,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,52,0,0
+2023/12/07 11:32:18.364,119,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384459,250,1,1,https://www.homecentre.in/in/en/,30,0,0
+2023/12/07 11:32:18.364,30,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,30,0,0
+2023/12/07 11:32:18.394,89,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383913,128,1,1,https://www.homecentre.in/in/en/,37,0,0
+2023/12/07 11:32:18.484,95,Living Room,200,OK,Thread Group 1-1,text,true,,263269,149,1,1,https://www.homecentre.in/in/en/department/livingroom,52,0,0
+2023/12/07 11:32:18.580,259,Shop ,200,OK,Thread Group 1-1,text,true,,1362233,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,37,0,0
+2023/12/07 11:32:18.840,1188,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384459,250,1,1,https://www.homecentre.in/in/en/,27,0,0
+2023/12/07 11:32:18.840,27,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,27,0,0
+2023/12/07 11:32:18.867,1161,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383913,128,1,1,https://www.homecentre.in/in/en/,41,0,0
+2023/12/07 11:32:20.029,99,Living Room,200,OK,Thread Group 1-1,text,true,,263263,149,1,1,https://www.homecentre.in/in/en/department/livingroom,42,0,0
+2023/12/07 11:32:20.128,275,Shop ,200,OK,Thread Group 1-1,text,true,,1362237,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,34,0,0
+2023/12/07 11:32:20.403,135,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384459,250,1,1,https://www.homecentre.in/in/en/,25,0,0
+2023/12/07 11:32:20.403,25,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,25,0,0
+2023/12/07 11:32:20.428,110,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383913,128,1,1,https://www.homecentre.in/in/en/,51,0,0
+2023/12/07 11:32:20.538,106,Living Room,200,OK,Thread Group 1-1,text,true,,263269,149,1,1,https://www.homecentre.in/in/en/department/livingroom,54,0,0
+2023/12/07 11:32:20.644,276,Shop ,200,OK,Thread Group 1-1,text,true,,1362241,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,34,0,0
+2023/12/07 11:32:20.920,131,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384459,250,1,1,https://www.homecentre.in/in/en/,24,0,0
+2023/12/07 11:32:20.920,24,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,24,0,0
+2023/12/07 11:32:20.945,106,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383913,128,1,1,https://www.homecentre.in/in/en/,42,0,0
+2023/12/07 11:32:21.052,97,Living Room,200,OK,Thread Group 1-1,text,true,,263269,149,1,1,https://www.homecentre.in/in/en/department/livingroom,52,0,0
+2023/12/07 11:32:21.149,295,Shop ,200,OK,Thread Group 1-1,text,true,,1362240,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,39,0,0
+2023/12/07 11:32:21.444,129,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384459,250,1,1,https://www.homecentre.in/in/en/,24,0,0
+2023/12/07 11:32:21.444,24,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,24,0,0
+2023/12/07 11:32:21.468,105,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383913,128,1,1,https://www.homecentre.in/in/en/,42,0,0
+2023/12/07 11:32:21.574,105,Living Room,200,OK,Thread Group 1-1,text,true,,263269,149,1,1,https://www.homecentre.in/in/en/department/livingroom,40,0,0
+2023/12/07 11:32:21.680,254,Shop ,200,OK,Thread Group 1-1,text,true,,1362233,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,40,0,0
+2023/12/07 11:32:21.935,139,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384459,250,1,1,https://www.homecentre.in/in/en/,29,0,0
+2023/12/07 11:32:21.935,29,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,29,0,0
+2023/12/07 11:32:21.965,109,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383913,128,1,1,https://www.homecentre.in/in/en/,32,0,0
+2023/12/07 11:32:22.075,108,Living Room,200,OK,Thread Group 1-1,text,true,,263269,149,1,1,https://www.homecentre.in/in/en/department/livingroom,36,0,0
+2023/12/07 11:32:22.183,244,Shop ,200,OK,Thread Group 1-1,text,true,,1362232,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,36,0,0
+2023/12/07 11:32:22.428,126,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384460,250,1,1,https://www.homecentre.in/in/en/,24,0,0
+2023/12/07 11:32:22.428,24,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,24,0,0
+2023/12/07 11:32:22.452,102,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383914,128,1,1,https://www.homecentre.in/in/en/,36,0,0
+2023/12/07 11:32:22.555,79,Living Room,200,OK,Thread Group 1-1,text,true,,263263,149,1,1,https://www.homecentre.in/in/en/department/livingroom,26,0,0
+2023/12/07 11:32:22.634,275,Shop ,200,OK,Thread Group 1-1,text,true,,1362241,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,30,0,0
+2023/12/07 11:32:22.910,120,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384459,250,1,1,https://www.homecentre.in/in/en/,22,0,0
+2023/12/07 11:32:22.910,22,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,22,0,0
+2023/12/07 11:32:22.932,98,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383913,128,1,1,https://www.homecentre.in/in/en/,29,0,0
+2023/12/07 11:32:23.031,98,Living Room,200,OK,Thread Group 1-1,text,true,,263269,149,1,1,https://www.homecentre.in/in/en/department/livingroom,37,0,0
+2023/12/07 11:32:23.129,265,Shop ,200,OK,Thread Group 1-1,text,true,,1362240,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,41,0,0
+2023/12/07 11:32:23.412,160,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384459,250,1,1,https://www.homecentre.in/in/en/,23,0,0
+2023/12/07 11:32:23.412,23,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,23,0,0
+2023/12/07 11:32:23.435,137,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383913,128,1,1,https://www.homecentre.in/in/en/,49,0,0
+2023/12/07 11:32:23.573,83,Living Room,200,OK,Thread Group 1-1,text,true,,263269,149,1,1,https://www.homecentre.in/in/en/department/livingroom,42,0,0
+2023/12/07 11:32:23.657,244,Shop ,200,OK,Thread Group 1-1,text,true,,1362239,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,28,0,0
+2023/12/07 11:32:23.925,134,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384459,250,1,1,https://www.homecentre.in/in/en/,22,0,0
+2023/12/07 11:32:23.925,35,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,22,0,0
+2023/12/07 11:32:23.960,99,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383913,128,1,1,https://www.homecentre.in/in/en/,29,0,0
+2023/12/07 11:32:24.060,87,Living Room,200,OK,Thread Group 1-1,text,true,,263269,149,1,1,https://www.homecentre.in/in/en/department/livingroom,41,0,0
+2023/12/07 11:32:24.147,234,Shop ,200,OK,Thread Group 1-1,text,true,,1362233,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,43,0,0
+2023/12/07 11:32:24.382,121,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384459,250,1,1,https://www.homecentre.in/in/en/,25,0,0
+2023/12/07 11:32:24.382,25,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,25,0,0
+2023/12/07 11:32:24.407,96,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383913,128,1,1,https://www.homecentre.in/in/en/,34,0,0
+2023/12/07 11:32:24.503,104,Living Room,200,OK,Thread Group 1-1,text,true,,263269,149,1,1,https://www.homecentre.in/in/en/department/livingroom,40,0,0
+2023/12/07 11:32:24.608,296,Shop ,200,OK,Thread Group 1-1,text,true,,1362232,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,30,0,0
+2023/12/07 11:32:24.904,158,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384459,250,1,1,https://www.homecentre.in/in/en/,44,0,0
+2023/12/07 11:32:24.904,44,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,44,0,0
+2023/12/07 11:32:24.949,113,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383913,128,1,1,https://www.homecentre.in/in/en/,36,0,0
+2023/12/07 11:32:25.062,98,Living Room,200,OK,Thread Group 1-1,text,true,,263269,149,1,1,https://www.homecentre.in/in/en/department/livingroom,55,0,0
+2023/12/07 11:32:25.161,296,Shop ,200,OK,Thread Group 1-1,text,true,,1362232,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,42,0,0
+2023/12/07 11:32:25.470,132,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384459,250,1,1,https://www.homecentre.in/in/en/,25,0,0
+2023/12/07 11:32:25.470,25,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,25,0,0
+2023/12/07 11:32:25.495,107,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383913,128,1,1,https://www.homecentre.in/in/en/,45,0,0
+2023/12/07 11:32:25.602,67,Living Room,200,OK,Thread Group 1-1,text,true,,263269,149,1,1,https://www.homecentre.in/in/en/department/livingroom,31,0,0
+2023/12/07 11:32:25.670,256,Shop ,200,OK,Thread Group 1-1,text,true,,1362239,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,26,0,0
+2023/12/07 11:32:25.926,156,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384459,250,1,1,https://www.homecentre.in/in/en/,37,0,0
+2023/12/07 11:32:25.926,38,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,37,0,0
+2023/12/07 11:32:25.964,118,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383913,128,1,1,https://www.homecentre.in/in/en/,44,0,0
+2023/12/07 11:32:26.083,75,Living Room,200,OK,Thread Group 1-1,text,true,,263269,149,1,1,https://www.homecentre.in/in/en/department/livingroom,31,0,0
+2023/12/07 11:32:26.159,253,Shop ,200,OK,Thread Group 1-1,text,true,,1362233,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,47,0,0
+2023/12/07 11:32:26.413,121,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384459,250,1,1,https://www.homecentre.in/in/en/,37,0,0
+2023/12/07 11:32:26.413,37,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,37,0,0
+2023/12/07 11:32:26.450,84,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383913,128,1,1,https://www.homecentre.in/in/en/,30,0,0
+2023/12/07 11:32:26.535,73,Living Room,200,OK,Thread Group 1-1,text,true,,263269,149,1,1,https://www.homecentre.in/in/en/department/livingroom,29,0,0
+2023/12/07 11:32:26.608,288,Shop ,200,OK,Thread Group 1-1,text,true,,1362234,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,50,0,0
+2023/12/07 11:32:26.897,126,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384459,250,1,1,https://www.homecentre.in/in/en/,44,0,0
+2023/12/07 11:32:26.897,44,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,44,0,0
+2023/12/07 11:32:26.941,82,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383913,128,1,1,https://www.homecentre.in/in/en/,38,0,0
+2023/12/07 11:32:27.024,74,Living Room,200,OK,Thread Group 1-1,text,true,,263263,149,1,1,https://www.homecentre.in/in/en/department/livingroom,34,0,0
+2023/12/07 11:32:27.098,245,Shop ,200,OK,Thread Group 1-1,text,true,,1362241,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,45,0,0
+2023/12/07 11:32:27.343,133,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384459,250,1,1,https://www.homecentre.in/in/en/,27,0,0
+2023/12/07 11:32:27.343,27,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,27,0,0
+2023/12/07 11:32:27.370,106,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383913,128,1,1,https://www.homecentre.in/in/en/,33,0,0
+2023/12/07 11:32:27.477,100,Living Room,200,OK,Thread Group 1-1,text,true,,263269,149,1,1,https://www.homecentre.in/in/en/department/livingroom,54,0,0
+2023/12/07 11:32:27.577,264,Shop ,200,OK,Thread Group 1-1,text,true,,1362232,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,38,0,0
+2023/12/07 11:32:27.841,129,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384459,250,1,1,https://www.homecentre.in/in/en/,27,0,0
+2023/12/07 11:32:27.841,27,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,27,0,0
+2023/12/07 11:32:27.868,102,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383913,128,1,1,https://www.homecentre.in/in/en/,30,0,0
+2023/12/07 11:32:27.971,79,Living Room,200,OK,Thread Group 1-1,text,true,,263262,149,1,1,https://www.homecentre.in/in/en/department/livingroom,39,0,0
+2023/12/07 11:32:28.050,238,Shop ,200,OK,Thread Group 1-1,text,true,,1362249,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,35,0,0
+2023/12/07 11:32:28.288,136,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384459,250,1,1,https://www.homecentre.in/in/en/,26,0,0
+2023/12/07 11:32:28.288,26,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,26,0,0
+2023/12/07 11:32:28.314,110,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383913,128,1,1,https://www.homecentre.in/in/en/,34,0,0
+2023/12/07 11:32:28.424,244,Living Room,200,OK,Thread Group 1-1,text,true,,263263,149,1,1,https://www.homecentre.in/in/en/department/livingroom,49,0,0
+2023/12/07 11:32:28.668,327,Shop ,200,OK,Thread Group 1-1,text,true,,1362227,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,44,0,0
+2023/12/07 11:32:28.995,148,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384459,250,1,1,https://www.homecentre.in/in/en/,24,0,0
+2023/12/07 11:32:28.995,24,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,24,0,0
+2023/12/07 11:32:29.020,123,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383913,128,1,1,https://www.homecentre.in/in/en/,38,0,0
+2023/12/07 11:32:29.144,98,Living Room,200,OK,Thread Group 1-1,text,true,,263269,149,1,1,https://www.homecentre.in/in/en/department/livingroom,51,0,0
+2023/12/07 11:32:29.242,367,Shop ,200,OK,Thread Group 1-1,text,true,,1362249,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,32,0,0
+2023/12/07 11:32:29.610,141,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384459,250,1,1,https://www.homecentre.in/in/en/,21,0,0
+2023/12/07 11:32:29.610,21,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,21,0,0
+2023/12/07 11:32:29.631,120,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383913,128,1,1,https://www.homecentre.in/in/en/,40,0,0
+2023/12/07 11:32:29.751,93,Living Room,200,OK,Thread Group 1-1,text,true,,263263,149,1,1,https://www.homecentre.in/in/en/department/livingroom,32,0,0
+2023/12/07 11:32:29.845,302,Shop ,200,OK,Thread Group 1-1,text,true,,1362241,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,45,0,0
+2023/12/07 11:32:30.148,131,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384460,250,1,1,https://www.homecentre.in/in/en/,38,0,0
+2023/12/07 11:32:30.148,38,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,38,0,0
+2023/12/07 11:32:30.187,92,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383914,128,1,1,https://www.homecentre.in/in/en/,30,0,0
+2023/12/07 11:32:30.280,88,Living Room,200,OK,Thread Group 1-1,text,true,,263269,149,1,1,https://www.homecentre.in/in/en/department/livingroom,42,0,0
+2023/12/07 11:32:30.368,257,Shop ,200,OK,Thread Group 1-1,text,true,,1362248,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,35,0,0
+2023/12/07 11:32:30.625,150,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384460,250,1,1,https://www.homecentre.in/in/en/,33,0,0
+2023/12/07 11:32:30.625,33,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,33,0,0
+2023/12/07 11:32:30.658,117,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383914,128,1,1,https://www.homecentre.in/in/en/,44,0,0
+2023/12/07 11:32:30.775,87,Living Room,200,OK,Thread Group 1-1,text,true,,263269,149,1,1,https://www.homecentre.in/in/en/department/livingroom,32,0,0
+2023/12/07 11:32:30.862,266,Shop ,200,OK,Thread Group 1-1,text,true,,1362228,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,31,0,0
+2023/12/07 11:32:31.128,141,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384459,250,1,1,https://www.homecentre.in/in/en/,28,0,0
+2023/12/07 11:32:31.128,28,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,28,0,0
+2023/12/07 11:32:31.157,112,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383913,128,1,1,https://www.homecentre.in/in/en/,38,0,0
+2023/12/07 11:32:31.270,70,Living Room,200,OK,Thread Group 1-1,text,true,,263269,149,1,1,https://www.homecentre.in/in/en/department/livingroom,28,0,0
+2023/12/07 11:32:31.340,241,Shop ,200,OK,Thread Group 1-1,text,true,,1362233,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,28,0,0
+2023/12/07 11:32:31.602,104,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384460,250,1,1,https://www.homecentre.in/in/en/,21,0,0
+2023/12/07 11:32:31.602,22,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,21,0,0
+2023/12/07 11:32:31.624,82,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383914,128,1,1,https://www.homecentre.in/in/en/,26,0,0
+2023/12/07 11:32:31.707,76,Living Room,200,OK,Thread Group 1-1,text,true,,263269,149,1,1,https://www.homecentre.in/in/en/department/livingroom,36,0,0
+2023/12/07 11:32:31.784,254,Shop ,200,OK,Thread Group 1-1,text,true,,1362227,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,42,0,0
+2023/12/07 11:32:32.038,136,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384459,250,1,1,https://www.homecentre.in/in/en/,27,0,0
+2023/12/07 11:32:32.038,27,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,27,0,0
+2023/12/07 11:32:32.065,109,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383913,128,1,1,https://www.homecentre.in/in/en/,43,0,0
+2023/12/07 11:32:32.175,81,Living Room,200,OK,Thread Group 1-1,text,true,,263269,149,1,1,https://www.homecentre.in/in/en/department/livingroom,37,0,0
+2023/12/07 11:32:32.257,264,Shop ,200,OK,Thread Group 1-1,text,true,,1362242,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,29,0,0
+2023/12/07 11:32:32.522,102,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384460,250,1,1,https://www.homecentre.in/in/en/,20,0,0
+2023/12/07 11:32:32.522,20,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,20,0,0
+2023/12/07 11:32:32.542,82,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383914,128,1,1,https://www.homecentre.in/in/en/,26,0,0
+2023/12/07 11:32:32.625,80,Living Room,200,OK,Thread Group 1-1,text,true,,263269,149,1,1,https://www.homecentre.in/in/en/department/livingroom,35,0,0
+2023/12/07 11:32:32.705,240,Shop ,200,OK,Thread Group 1-1,text,true,,1362240,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,30,0,0
+2023/12/07 11:32:32.945,132,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384459,250,1,1,https://www.homecentre.in/in/en/,32,0,0
+2023/12/07 11:32:32.945,32,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,32,0,0
+2023/12/07 11:32:32.978,99,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383913,128,1,1,https://www.homecentre.in/in/en/,31,0,0
+2023/12/07 11:32:33.078,96,Living Room,200,OK,Thread Group 1-1,text,true,,263269,149,1,1,https://www.homecentre.in/in/en/department/livingroom,41,0,0
+2023/12/07 11:32:33.174,249,Shop ,200,OK,Thread Group 1-1,text,true,,1362239,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,37,0,0
+2023/12/07 11:32:33.423,120,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384459,250,1,1,https://www.homecentre.in/in/en/,22,0,0
+2023/12/07 11:32:33.423,22,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,22,0,0
+2023/12/07 11:32:33.445,98,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383913,128,1,1,https://www.homecentre.in/in/en/,41,0,0
+2023/12/07 11:32:33.543,100,Living Room,200,OK,Thread Group 1-1,text,true,,263269,149,1,1,https://www.homecentre.in/in/en/department/livingroom,41,0,0
+2023/12/07 11:32:33.657,228,Shop ,200,OK,Thread Group 1-1,text,true,,1362240,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,32,0,0
+2023/12/07 11:32:33.886,124,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384459,250,1,1,https://www.homecentre.in/in/en/,30,0,0
+2023/12/07 11:32:33.886,30,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,30,0,0
+2023/12/07 11:32:33.916,94,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383913,128,1,1,https://www.homecentre.in/in/en/,34,0,0
+2023/12/07 11:32:34.011,78,Living Room,200,OK,Thread Group 1-1,text,true,,263269,149,1,1,https://www.homecentre.in/in/en/department/livingroom,49,0,0
+2023/12/07 11:32:34.089,277,Shop ,200,OK,Thread Group 1-1,text,true,,1362240,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,38,0,0
+2023/12/07 11:32:34.367,134,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384452,250,1,1,https://www.homecentre.in/in/en/,39,0,0
+2023/12/07 11:32:34.367,39,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,39,0,0
+2023/12/07 11:32:34.407,94,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383906,128,1,1,https://www.homecentre.in/in/en/,35,0,0
+2023/12/07 11:32:34.502,81,Living Room,200,OK,Thread Group 1-1,text,true,,263269,149,1,1,https://www.homecentre.in/in/en/department/livingroom,40,0,0
+2023/12/07 11:32:34.584,291,Shop ,200,OK,Thread Group 1-1,text,true,,1362238,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,33,0,0
+2023/12/07 11:32:34.876,113,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384459,250,1,1,https://www.homecentre.in/in/en/,22,0,0
+2023/12/07 11:32:34.876,22,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,22,0,0
+2023/12/07 11:32:34.898,91,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383913,128,1,1,https://www.homecentre.in/in/en/,40,0,0
+2023/12/07 11:32:34.990,73,Living Room,200,OK,Thread Group 1-1,text,true,,263269,149,1,1,https://www.homecentre.in/in/en/department/livingroom,33,0,0
+2023/12/07 11:32:35.064,1141,Shop ,200,OK,Thread Group 1-1,text,true,,1362241,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,149,0,0
+2023/12/07 11:32:36.206,200,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384459,250,1,1,https://www.homecentre.in/in/en/,44,0,0
+2023/12/07 11:32:36.206,44,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,44,0,0
+2023/12/07 11:32:36.250,156,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383913,128,1,1,https://www.homecentre.in/in/en/,33,0,0
+2023/12/07 11:32:36.406,106,Living Room,200,OK,Thread Group 1-1,text,true,,263263,149,1,1,https://www.homecentre.in/in/en/department/livingroom,34,0,0
+2023/12/07 11:32:36.513,417,Shop ,200,OK,Thread Group 1-1,text,true,,1362240,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,31,0,0
+2023/12/07 11:32:36.931,151,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384459,250,1,1,https://www.homecentre.in/in/en/,34,0,0
+2023/12/07 11:32:36.931,34,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,34,0,0
+2023/12/07 11:32:36.965,117,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383913,128,1,1,https://www.homecentre.in/in/en/,44,0,0
+2023/12/07 11:32:37.082,83,Living Room,200,OK,Thread Group 1-1,text,true,,263269,149,1,1,https://www.homecentre.in/in/en/department/livingroom,36,0,0
+2023/12/07 11:32:37.165,276,Shop ,200,OK,Thread Group 1-1,text,true,,1362242,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,50,0,0
+2023/12/07 11:32:37.442,107,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384459,250,1,1,https://www.homecentre.in/in/en/,25,0,0
+2023/12/07 11:32:37.442,25,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,25,0,0
+2023/12/07 11:32:37.467,82,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383913,128,1,1,https://www.homecentre.in/in/en/,26,0,0
+2023/12/07 11:32:37.550,68,Living Room,200,OK,Thread Group 1-1,text,true,,263269,149,1,1,https://www.homecentre.in/in/en/department/livingroom,29,0,0
+2023/12/07 11:32:37.619,262,Shop ,200,OK,Thread Group 1-1,text,true,,1362226,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,33,0,0
+2023/12/07 11:32:37.882,118,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384459,250,1,1,https://www.homecentre.in/in/en/,26,0,0
+2023/12/07 11:32:37.882,26,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,26,0,0
+2023/12/07 11:32:37.908,92,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383913,128,1,1,https://www.homecentre.in/in/en/,34,0,0
+2023/12/07 11:32:38.000,77,Living Room,200,OK,Thread Group 1-1,text,true,,263269,149,1,1,https://www.homecentre.in/in/en/department/livingroom,39,0,0
+2023/12/07 11:32:38.077,288,Shop ,200,OK,Thread Group 1-1,text,true,,1362249,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,59,0,0
+2023/12/07 11:32:38.365,128,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384459,250,1,1,https://www.homecentre.in/in/en/,32,0,0
+2023/12/07 11:32:38.365,32,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,32,0,0
+2023/12/07 11:32:38.398,95,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383913,128,1,1,https://www.homecentre.in/in/en/,30,0,0
+2023/12/07 11:32:38.494,63,Living Room,200,OK,Thread Group 1-1,text,true,,263269,149,1,1,https://www.homecentre.in/in/en/department/livingroom,30,0,0
+2023/12/07 11:32:38.557,235,Shop ,200,OK,Thread Group 1-1,text,true,,1362225,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,31,0,0
+2023/12/07 11:32:38.798,112,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384459,250,1,1,https://www.homecentre.in/in/en/,30,0,0
+2023/12/07 11:32:38.798,30,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,30,0,0
+2023/12/07 11:32:38.828,82,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383913,128,1,1,https://www.homecentre.in/in/en/,30,0,0
+2023/12/07 11:32:38.911,78,Living Room,200,OK,Thread Group 1-1,text,true,,263262,149,1,1,https://www.homecentre.in/in/en/department/livingroom,35,0,0
+2023/12/07 11:32:38.989,289,Shop ,200,OK,Thread Group 1-1,text,true,,1362240,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,68,0,0
+2023/12/07 11:32:39.309,124,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384459,250,1,1,https://www.homecentre.in/in/en/,23,0,0
+2023/12/07 11:32:39.309,23,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,23,0,0
+2023/12/07 11:32:39.332,101,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383913,128,1,1,https://www.homecentre.in/in/en/,40,0,0
+2023/12/07 11:32:39.434,74,Living Room,200,OK,Thread Group 1-1,text,true,,263269,149,1,1,https://www.homecentre.in/in/en/department/livingroom,38,0,0
+2023/12/07 11:32:39.509,398,Shop ,200,OK,Thread Group 1-1,text,true,,1362238,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,35,0,0
+2023/12/07 11:32:39.908,112,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384459,250,1,1,https://www.homecentre.in/in/en/,28,0,0
+2023/12/07 11:32:39.908,28,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,28,0,0
+2023/12/07 11:32:39.936,84,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383913,128,1,1,https://www.homecentre.in/in/en/,30,0,0
+2023/12/07 11:32:40.021,70,Living Room,200,OK,Thread Group 1-1,text,true,,263262,149,1,1,https://www.homecentre.in/in/en/department/livingroom,27,0,0
+2023/12/07 11:32:40.091,247,Shop ,200,OK,Thread Group 1-1,text,true,,1362233,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,28,0,0
+2023/12/07 11:32:40.339,119,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384459,250,1,1,https://www.homecentre.in/in/en/,28,0,0
+2023/12/07 11:32:40.339,28,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,28,0,0
+2023/12/07 11:32:40.367,91,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383913,128,1,1,https://www.homecentre.in/in/en/,32,0,0
+2023/12/07 11:32:40.459,71,Living Room,200,OK,Thread Group 1-1,text,true,,263269,149,1,1,https://www.homecentre.in/in/en/department/livingroom,32,0,0
+2023/12/07 11:32:40.530,224,Shop ,200,OK,Thread Group 1-1,text,true,,1362237,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,36,0,0
+2023/12/07 11:32:40.755,137,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384459,250,1,1,https://www.homecentre.in/in/en/,31,0,0
+2023/12/07 11:32:40.755,32,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,31,0,0
+2023/12/07 11:32:40.787,105,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383913,128,1,1,https://www.homecentre.in/in/en/,43,0,0
+2023/12/07 11:32:40.892,60,Living Room,200,OK,Thread Group 1-1,text,true,,263269,149,1,1,https://www.homecentre.in/in/en/department/livingroom,33,0,0
+2023/12/07 11:32:40.952,254,Shop ,200,OK,Thread Group 1-1,text,true,,1362233,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,35,0,0
+2023/12/07 11:32:41.206,137,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384460,250,1,1,https://www.homecentre.in/in/en/,26,0,0
+2023/12/07 11:32:41.206,29,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,26,0,0
+2023/12/07 11:32:41.235,108,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383914,128,1,1,https://www.homecentre.in/in/en/,44,0,0
+2023/12/07 11:32:41.361,76,Living Room,200,OK,Thread Group 1-1,text,true,,263262,149,1,1,https://www.homecentre.in/in/en/department/livingroom,39,0,0
+2023/12/07 11:32:41.437,226,Shop ,200,OK,Thread Group 1-1,text,true,,1362233,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,36,0,0
+2023/12/07 11:32:41.664,105,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384459,250,1,1,https://www.homecentre.in/in/en/,26,0,0
+2023/12/07 11:32:41.664,26,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,26,0,0
+2023/12/07 11:32:41.691,78,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383913,128,1,1,https://www.homecentre.in/in/en/,28,0,0
+2023/12/07 11:32:41.769,87,Living Room,200,OK,Thread Group 1-1,text,true,,263269,149,1,1,https://www.homecentre.in/in/en/department/livingroom,33,0,0
+2023/12/07 11:32:41.862,244,Shop ,200,OK,Thread Group 1-1,text,true,,1362246,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,45,0,0
+2023/12/07 11:32:42.107,119,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384460,250,1,1,https://www.homecentre.in/in/en/,28,0,0
+2023/12/07 11:32:42.107,28,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,28,0,0
+2023/12/07 11:32:42.136,90,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383914,128,1,1,https://www.homecentre.in/in/en/,42,0,0
+2023/12/07 11:32:42.227,76,Living Room,200,OK,Thread Group 1-1,text,true,,263262,149,1,1,https://www.homecentre.in/in/en/department/livingroom,32,0,0
+2023/12/07 11:32:42.304,255,Shop ,200,OK,Thread Group 1-1,text,true,,1362233,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,41,0,0
+2023/12/07 11:32:42.560,114,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384459,250,1,1,https://www.homecentre.in/in/en/,22,0,0
+2023/12/07 11:32:42.560,22,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,22,0,0
+2023/12/07 11:32:42.582,92,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383913,128,1,1,https://www.homecentre.in/in/en/,46,0,0
+2023/12/07 11:32:42.674,162,Living Room,200,OK,Thread Group 1-1,text,true,,263269,149,1,1,https://www.homecentre.in/in/en/department/livingroom,40,0,0
+2023/12/07 11:32:42.872,223,Shop ,200,OK,Thread Group 1-1,text,true,,1362231,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,39,0,0
+2023/12/07 11:32:43.096,116,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384459,250,1,1,https://www.homecentre.in/in/en/,31,0,0
+2023/12/07 11:32:43.096,31,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,31,0,0
+2023/12/07 11:32:43.127,85,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383913,128,1,1,https://www.homecentre.in/in/en/,35,0,0
+2023/12/07 11:32:43.213,74,Living Room,200,OK,Thread Group 1-1,text,true,,263269,149,1,1,https://www.homecentre.in/in/en/department/livingroom,32,0,0
+2023/12/07 11:32:43.288,230,Shop ,200,OK,Thread Group 1-1,text,true,,1362227,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,32,0,0
+2023/12/07 11:32:43.519,168,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384459,250,1,1,https://www.homecentre.in/in/en/,23,0,0
+2023/12/07 11:32:43.519,24,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,23,0,0
+2023/12/07 11:32:43.543,144,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383913,128,1,1,https://www.homecentre.in/in/en/,41,0,0
+2023/12/07 11:32:43.687,61,Living Room,200,OK,Thread Group 1-1,text,true,,263263,149,1,1,https://www.homecentre.in/in/en/department/livingroom,25,0,0
+2023/12/07 11:32:43.749,360,Shop ,200,OK,Thread Group 1-1,text,true,,1362233,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,35,0,0
+2023/12/07 11:32:44.110,122,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384459,250,1,1,https://www.homecentre.in/in/en/,26,0,0
+2023/12/07 11:32:44.110,26,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,26,0,0
+2023/12/07 11:32:44.136,96,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383913,128,1,1,https://www.homecentre.in/in/en/,28,0,0
+2023/12/07 11:32:44.232,80,Living Room,200,OK,Thread Group 1-1,text,true,,263263,149,1,1,https://www.homecentre.in/in/en/department/livingroom,39,0,0
+2023/12/07 11:32:44.312,261,Shop ,200,OK,Thread Group 1-1,text,true,,1362232,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,38,0,0
+2023/12/07 11:32:44.574,106,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384459,250,1,1,https://www.homecentre.in/in/en/,25,0,0
+2023/12/07 11:32:44.574,25,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,25,0,0
+2023/12/07 11:32:44.599,81,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383913,128,1,1,https://www.homecentre.in/in/en/,30,0,0
+2023/12/07 11:32:44.681,74,Living Room,200,OK,Thread Group 1-1,text,true,,263263,149,1,1,https://www.homecentre.in/in/en/department/livingroom,34,0,0
+2023/12/07 11:32:44.755,269,Shop ,200,OK,Thread Group 1-1,text,true,,1362240,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,65,0,0
+2023/12/07 11:32:45.025,135,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384460,250,1,1,https://www.homecentre.in/in/en/,28,0,0
+2023/12/07 11:32:45.025,28,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,28,0,0
+2023/12/07 11:32:45.053,107,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383914,128,1,1,https://www.homecentre.in/in/en/,30,0,0
+2023/12/07 11:32:45.161,87,Living Room,200,OK,Thread Group 1-1,text,true,,263269,149,1,1,https://www.homecentre.in/in/en/department/livingroom,37,0,0
+2023/12/07 11:32:45.249,251,Shop ,200,OK,Thread Group 1-1,text,true,,1362234,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,28,0,0
+2023/12/07 11:32:45.500,113,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384459,250,1,1,https://www.homecentre.in/in/en/,23,0,0
+2023/12/07 11:32:45.500,23,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,23,0,0
+2023/12/07 11:32:45.523,90,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383913,128,1,1,https://www.homecentre.in/in/en/,43,0,0
+2023/12/07 11:32:45.614,117,Living Room,200,OK,Thread Group 1-1,text,true,,263263,149,1,1,https://www.homecentre.in/in/en/department/livingroom,35,0,0
+2023/12/07 11:32:45.731,258,Shop ,200,OK,Thread Group 1-1,text,true,,1362240,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,26,0,0
+2023/12/07 11:32:45.989,117,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384459,250,1,1,https://www.homecentre.in/in/en/,22,0,0
+2023/12/07 11:32:45.989,22,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,22,0,0
+2023/12/07 11:32:46.011,95,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383913,128,1,1,https://www.homecentre.in/in/en/,34,0,0
+2023/12/07 11:32:46.107,65,Living Room,200,OK,Thread Group 1-1,text,true,,263262,149,1,1,https://www.homecentre.in/in/en/department/livingroom,27,0,0
+2023/12/07 11:32:46.172,242,Shop ,200,OK,Thread Group 1-1,text,true,,1362227,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,31,0,0
+2023/12/07 11:32:46.457,115,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384460,250,1,1,https://www.homecentre.in/in/en/,27,0,0
+2023/12/07 11:32:46.457,27,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,27,0,0
+2023/12/07 11:32:46.484,88,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383914,128,1,1,https://www.homecentre.in/in/en/,32,0,0
+2023/12/07 11:32:46.572,70,Living Room,200,OK,Thread Group 1-1,text,true,,263269,149,1,1,https://www.homecentre.in/in/en/department/livingroom,26,0,0
+2023/12/07 11:32:46.642,237,Shop ,200,OK,Thread Group 1-1,text,true,,1362262,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,51,0,0
+2023/12/07 11:32:46.879,125,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384459,250,1,1,https://www.homecentre.in/in/en/,29,0,0
+2023/12/07 11:32:46.879,29,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,29,0,0
+2023/12/07 11:32:46.908,96,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383913,128,1,1,https://www.homecentre.in/in/en/,42,0,0
+2023/12/07 11:32:47.005,74,Living Room,200,OK,Thread Group 1-1,text,true,,263263,149,1,1,https://www.homecentre.in/in/en/department/livingroom,29,0,0
+2023/12/07 11:32:47.079,247,Shop ,200,OK,Thread Group 1-1,text,true,,1362226,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,41,0,0
+2023/12/07 11:32:47.327,131,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384460,250,1,1,https://www.homecentre.in/in/en/,21,0,0
+2023/12/07 11:32:47.327,21,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,21,0,0
+2023/12/07 11:32:47.349,109,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383914,128,1,1,https://www.homecentre.in/in/en/,33,0,0
+2023/12/07 11:32:47.508,77,Living Room,200,OK,Thread Group 1-1,text,true,,263269,149,1,1,https://www.homecentre.in/in/en/department/livingroom,29,0,0
+2023/12/07 11:32:47.585,296,Shop ,200,OK,Thread Group 1-1,text,true,,1362247,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,36,0,0
+2023/12/07 11:32:47.882,184,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384459,250,1,1,https://www.homecentre.in/in/en/,23,0,0
+2023/12/07 11:32:47.882,24,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,23,0,0
+2023/12/07 11:32:47.906,160,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383913,128,1,1,https://www.homecentre.in/in/en/,44,0,0
+2023/12/07 11:32:48.077,75,Living Room,200,OK,Thread Group 1-1,text,true,,263263,149,1,1,https://www.homecentre.in/in/en/department/livingroom,30,0,0
+2023/12/07 11:32:48.153,213,Shop ,200,OK,Thread Group 1-1,text,true,,1362247,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,29,0,0
+2023/12/07 11:32:48.366,125,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384459,250,1,1,https://www.homecentre.in/in/en/,29,0,0
+2023/12/07 11:32:48.366,29,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,29,0,0
+2023/12/07 11:32:48.395,96,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383913,128,1,1,https://www.homecentre.in/in/en/,33,0,0
+2023/12/07 11:32:48.497,78,Living Room,200,OK,Thread Group 1-1,text,true,,263262,149,1,1,https://www.homecentre.in/in/en/department/livingroom,37,0,0
+2023/12/07 11:32:48.575,243,Shop ,200,OK,Thread Group 1-1,text,true,,1362233,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,40,0,0
+2023/12/07 11:32:48.818,115,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384459,250,1,1,https://www.homecentre.in/in/en/,25,0,0
+2023/12/07 11:32:48.818,25,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,25,0,0
+2023/12/07 11:32:48.843,90,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383913,128,1,1,https://www.homecentre.in/in/en/,34,0,0
+2023/12/07 11:32:48.934,96,Living Room,200,OK,Thread Group 1-1,text,true,,263269,149,1,1,https://www.homecentre.in/in/en/department/livingroom,45,0,0
+2023/12/07 11:32:49.031,270,Shop ,200,OK,Thread Group 1-1,text,true,,1362225,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,42,0,0
+2023/12/07 11:32:49.301,173,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384459,250,1,1,https://www.homecentre.in/in/en/,24,0,0
+2023/12/07 11:32:49.301,24,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,24,0,0
+2023/12/07 11:32:49.325,149,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383913,128,1,1,https://www.homecentre.in/in/en/,45,0,0
+2023/12/07 11:32:49.527,76,Living Room,200,OK,Thread Group 1-1,text,true,,263269,149,1,1,https://www.homecentre.in/in/en/department/livingroom,32,0,0
+2023/12/07 11:32:49.603,294,Shop ,200,OK,Thread Group 1-1,text,true,,1362239,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,79,0,0
+2023/12/07 11:32:49.897,227,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384459,250,1,1,https://www.homecentre.in/in/en/,24,0,0
+2023/12/07 11:32:49.897,25,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,24,0,0
+2023/12/07 11:32:49.922,202,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383913,128,1,1,https://www.homecentre.in/in/en/,47,0,0
+2023/12/07 11:32:50.135,101,Living Room,200,OK,Thread Group 1-1,text,true,,263262,149,1,1,https://www.homecentre.in/in/en/department/livingroom,41,0,0
+2023/12/07 11:32:50.236,273,Shop ,200,OK,Thread Group 1-1,text,true,,1362232,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,54,0,0
+2023/12/07 11:32:50.562,127,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384459,250,1,1,https://www.homecentre.in/in/en/,35,0,0
+2023/12/07 11:32:50.562,35,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,35,0,0
+2023/12/07 11:32:50.597,92,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383913,128,1,1,https://www.homecentre.in/in/en/,40,0,0
+2023/12/07 11:32:50.690,70,Living Room,200,OK,Thread Group 1-1,text,true,,263262,149,1,1,https://www.homecentre.in/in/en/department/livingroom,29,0,0
+2023/12/07 11:32:50.760,243,Shop ,200,OK,Thread Group 1-1,text,true,,1362234,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,33,0,0
+2023/12/07 11:32:51.003,134,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384467,250,1,1,https://www.homecentre.in/in/en/,24,0,0
+2023/12/07 11:32:51.003,24,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,24,0,0
+2023/12/07 11:32:51.028,109,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383921,128,1,1,https://www.homecentre.in/in/en/,28,0,0
+2023/12/07 11:32:51.138,89,Living Room,200,OK,Thread Group 1-1,text,true,,263262,149,1,1,https://www.homecentre.in/in/en/department/livingroom,37,0,0
+2023/12/07 11:32:51.228,651,Shop ,200,OK,Thread Group 1-1,text,true,,1362239,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,29,0,0
+2023/12/07 11:32:51.880,850,Furniture Home page,200,OK,Thread Group 1-1,text,true,,384452,250,1,1,https://www.homecentre.in/in/en/,138,0,0
+2023/12/07 11:32:51.880,138,Furniture Home page-0,301,Moved Permanently,Thread Group 1-1,text,true,,546,122,1,1,https://www.homecentre.in/,138,0,0
+2023/12/07 11:32:52.018,712,Furniture Home page-1,200,OK,Thread Group 1-1,text,true,,383906,128,1,1,https://www.homecentre.in/in/en/,125,0,0
+2023/12/07 11:32:52.731,1012,Living Room,200,OK,Thread Group 1-1,text,true,,263269,149,1,1,https://www.homecentre.in/in/en/department/livingroom,98,0,0
+2023/12/07 11:32:53.743,2382,Shop ,200,OK,Thread Group 1-1,text,true,,1362240,159,1,1,https://www.homecentre.in/in/en/search?q=badge.invisible%3A014I,35,0,0
